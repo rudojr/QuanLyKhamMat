@@ -1,0 +1,13 @@
+101,Kham mat tong quat,50000
+102,Do kinh ap trong,75000
+103,Kiem tra benh Glocom,60000
+104,Phau thuat duc thuy tinh the,100000
+105,Phau thuat Lasik,120000
+106,Cham soc mat tre em,800000
+107,Kham vong mac,900000
+108,Tri lieu thi luc,150000
+109,Kham mat tieu duong,700000
+111,Dieu tri kho matt,550000
+112,Dieu tri di ung mat,450000
+113,Phau thuat mi mat,9500000
+114,Ghep giac mac,2500000
