@@ -220,7 +220,7 @@ void menu_patients(std::vector<Patient>& patients)
             default:
                 std::cout << "Lua chon khong hop le. Xin vui long nhap lai thong tin.\n";
         }
-    } while (choice != 8);
+    } while (choice != 7);
 }
 //============================================================================================================================================//
 std::vector<Service> readServicesFromFile(const std::string& filename) {
@@ -382,7 +382,7 @@ void menu_services(std::vector<Service>& services) {
             default:
                 std::cout << "Lua chon khong hop le.\n";
         }
-    } while (choice != 6);
+    } while (choice != 7);
 }
 //============================================================================================================================================//
 void generateInvoice(const std::vector<Patient>& patients, const std::vector<Service>& services) {
